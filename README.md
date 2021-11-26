@@ -1,6 +1,6 @@
 - 👋 NADIA
-- 👀 MSCS Student
-- 🌱 Ailurophile
+-🎓 MSCS Student
+-😸Ailurophile
 
 
 <!---
